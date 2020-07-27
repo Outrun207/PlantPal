@@ -92,4 +92,6 @@ Enter the following line to ensure our watchdog script runs every 15 minutes. (W
 
 ## To do
 - export this in CF or other Infrastructure as Code template.
+- wireless GIPO
+- be a better plant parent =/ 
 
