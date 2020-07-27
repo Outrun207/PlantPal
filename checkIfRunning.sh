@@ -1,5 +1,5 @@
 #!/bin/sh
-#thanks Chris Elgee (2018) for the original code from soundboard project 
+#thanks Chris for the original code from soundboard project 
 
 if pgrep -f "python3 plantPal.py"; then
     pid=$(pidof python3 plantPal.py)
