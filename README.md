@@ -7,7 +7,7 @@ A Raspberry Pi and Amazon Web Services project. Never let your plants go dry aga
 ## Hardware
 
 - [Moisture Sensor](https://www.amazon.com/gp/product/B071F4RDHY/)
-  - [setup moisture sensor](https://www.instructables.com/id/Soil-Moisture-Sensor-Raspberry-Pi/)
+  - [Setup moisture sensor](https://www.instructables.com/id/Soil-Moisture-Sensor-Raspberry-Pi/)
 - [Raspberry Pi](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV) You can use any pi for this project 
 - Seymore the Brave Test Plant  
 
