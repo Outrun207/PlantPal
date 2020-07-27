@@ -1,4 +1,5 @@
-<a href="https://github.com/outrun7/PlantPal/blob/master/seymore.jpg"><img src="https://github.com/outrun7/PlantPal/blob/master/seymore.jpg" align="left" height="100" width="120" ></a>
+![Seymore](https://github.com/outrun7/PlantPal/blob/master/seymore.jpg)
+
 # PlantPal
 A Raspberry Pi and Amazon Web Services project. Never let your plants go dry again! Receive an email from AWS Simple Notification Service (SNS) when your plants are running low on water. 
 
