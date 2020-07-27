@@ -1,7 +1,7 @@
 ![Seymore](https://github.com/outrun7/PlantPal/blob/master/seymore.jpg)
 
 # PlantPal
-A Raspberry Pi and Amazon Web Services project. Never let your plants go dry again! Receive an email from AWS Simple Notification Service (SNS) when your plants are running low on water. When the moisture sensor detects a change (plant is dry), the pi will publish a message in AWS SNS, which will send an email to the defined inbox. 
+A Raspberry Pi and Amazon Web Services project. Never let your plants go dry again! Receive an email from AWS Simple Notification Service (SNS) when your plants are running low on water. When the moisture sensor detects a change (plant is dry), the pi will publish a message to AWS SNS, which will send an email to the defined inbox. 
 ![email](https://github.com/outrun7/PlantPal/blob/master/email.PNG)
 
 ## Hardware
