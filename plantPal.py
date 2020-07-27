@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# Plant Pal by Josh Moss (Outrun) July 2020
-#josh@outrun.zone
 #store your creds in ~/.aws/credentials and setup your ~/.aws/config file with proper region. 
 
 import RPi.GPIO as GPIO 
