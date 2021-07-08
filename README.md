@@ -29,7 +29,7 @@ I chose to encrypt my messages server-side and kept publishing and reading restr
 ![SNS Topic](https://github.com/outrun7/PlantPal/blob/master/snsTopic.PNG)
 
 ## Setup IAM
-Log into a non-root AWS account and create an IAM user with programatic access only.
+Create an IAM user with programatic access only.
 
 Create a policy that allows SNS Publish only. 
 
